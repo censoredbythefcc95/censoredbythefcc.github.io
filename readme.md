@@ -23,14 +23,14 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
-| [denisechandler.com](http://www.denisechandler.com/)%7C landing page animation
-|[jkeohan.com](http://jkeohan.com/) | mouseover on a project triggers animations |
-| [mattfarley.ca](http://mattfarley.ca/) |  layout of the projects
+| [findmatthew.com](http://www.denisechandler.com/)%7C Colors and animations
+|[caferati.me](http://jkeohan.com/) | Colors and design, how they feel warm|
+| [jtom.me](http://mattfarley.ca/) |  Colors and how they pop on the website.
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
-- [Mobile]()
-- [Desktop]()
+- [Mobile](http://ibb.co/SB1c6X)
+- [Desktop](http://ibb.co/RNx1WZ)
 ## Time/Priority Matrix 
 [Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
 Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
@@ -79,6 +79,7 @@ const $div = $("<div>)
 $div.addClass("Steven")
 $div.text("Hello World) {
 	// here is the code to create a div with the class Steven and text of "Hello World"
+	//this is just text i practiced with that got me inspired to start this project
 }
 ```
 ## Issues and Resolutions
