@@ -23,7 +23,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 Search and compare at least 3 profile web sites.  Record your findings in the table below and include some aspect of the site that you would like to incorporate into your own site.
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
-| [findmatthew.com](http://www.denisechandler.com/)%7C Colors and animations
+| [findmatthew.com](http://www.denisechandler.com/) | 7C Colors and animations
 |[caferati.me](http://jkeohan.com/) | Colors and design, how they feel warm|
 | [jtom.me](http://mattfarley.ca/) |  Colors and how they pop on the website.
 ---
