@@ -24,8 +24,9 @@ Search and compare at least 3 profile web sites.  Record your findings in the ta
 Link To Site  | One Thing I'd Like To Incorporate | 
 | ------------- | ------------- |
 | [findmatthew.com](http://www.findmatthew.com/) | 7C Colors and animations
-|[caferati.me](http://caferati.me/) | Colors and design, how they feel warm|
+|[caferati.me](http://caferati.me/) | Colors and design, how they feel warm
 | [jtom.me](http://jtom.me/) |  Colors and how they pop on the website.
+|[mediaboom.com/#/home](http://mediaboom.com/#/home/) | Moving video in background and crisp navigation bar
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
