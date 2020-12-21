@@ -27,6 +27,8 @@ Link To Site  | One Thing I'd Like To Incorporate |
 |[caferati.me](http://caferati.me/) | Colors and design, how they feel warm
 | [jtom.me](http://jtom.me/) |  Colors and how they pop on the website.
 |[mediaboom.com/#/home](http://mediaboom.com/#/home/) | Moving video in background and crisp navigation bar
+|[madeinhaus.com](http://www.madeinhaus.com) | Font style, boldness, font-family and modern look
+
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
