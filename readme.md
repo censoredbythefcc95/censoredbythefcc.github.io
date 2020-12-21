@@ -11,7 +11,12 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |Day 5| Final Touches | Incomplete
 |Day 6| Present | Incomplete
 ## Project Description
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+This project reflects my personal portfolio and makes a first impression on my
+future employers that will want to see where I stand with my work,
+and how I stand from a visual perspective. Style and warmth are the key
+highlights of what my project to resemble. I want to demonstrate that
+colors, font and even spacing can make a big impact on how a website 
+will feel and how a person looks at information when they visit my website.
 ## Google Sheet
 Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
 ## Portfolio I want to Emulate
