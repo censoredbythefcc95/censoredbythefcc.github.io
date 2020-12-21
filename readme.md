@@ -47,8 +47,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### PostMVP 
 - Anything else that is not MVP
 ## Functional Components
-Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
@@ -76,9 +75,14 @@ Time frames are also key in the development cycle.  You have limited time to cod
 ## Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
 ```
-function reverse(string) {
-	// here is the code to reverse a string of text
+const $div = $("<div>)
+$div.addClass("Steven")
+$div.text("Hello World) {
+	// here is the code to create a div with the class Steven and text of "Hello World"
 }
 ```
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+ -Design - very picky with colors and spacing. Will need to decide soon.
+ -Workflow- still very uncertain on how I will flow through my website. I get
+distracted by JavaScript bugs pretty quickly.
+-Timing: Honestly I have no idea how long the sessions for each task will take so I am giving myself more time than neccesary. I just want to get the tasks done by the days they are assigned in. 
