@@ -29,11 +29,8 @@ Link To Site  | One Thing I'd Like To Incorporate |
 ---
 ## Wireframes
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
-- [Mobile](https://i.imgur.com/P3iBEZf.jpg)
-- [Desktop](https://i.imgur.com/xpOWo0E.jpg)
-Wireframing Resources:
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
+- [Mobile]()
+- [Desktop]()
 ## Time/Priority Matrix 
 [Link](https://res.cloudinary.com/jkeohan/image/upload/a_270/v1591621734/project1_matrix_ocy5gc_h1kg0m.jpg)
 Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
@@ -55,15 +52,15 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Hamburger | H | 1hr | hr |
-| Project Previews | H | 3hr | hr |
+| Main Style | H | 3hr | hr |
+| Project Previews | H | 2hr | hr |
 | Regular Nav | H | 1hr | hr |  
-| Adding Form | H | 1.5hr|  hr | 
-| Other sections and flex| M | 3hr | hr|
-| Working with API | H | 3hrs|  hr | 
+| Adding Depth | H | 1.5hr|  hr | 
+| Animation in background | H | 2hr | hr|
+| Working with API/ Uploading | H | 2hrs|  hr | 
 | Responsive | H | 3hr | hr | hr |
-| Social Media Icons | L | 1hr |  hr |
-| Total | H | 15.5hrs| hrs |
+| Social Media Icons | L | 2hr |  hr |
+| Total | H | 30 hrs| hrs |
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
@@ -75,7 +72,7 @@ Time frames are also key in the development cycle.  You have limited time to cod
 | Make own icon | L | 4hr | hr |
 | Total | H | 20hrs| hrs |
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ None at this time. WIll updated as time comes along. 
 ## Code Snippet
 Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
 ```
