@@ -1,14 +1,14 @@
 # Project Overview
-## Project Schedule
+## Project Schedule/To-Do List
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
 You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| MVP & Bug Fixes | Incomplete
-|Day 5| Final Touches | Incomplete
+|Day 1| Project Preparation | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | In Progress
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Not started
+|Day 4| Troubleshooting | Incomplete
+|Day 5| Final Touches/Changes | Incomplete
 |Day 6| Present | Incomplete
 ## Project Description
 This project reflects my personal portfolio and makes a first impression on my
