@@ -5,8 +5,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |  Day | Deliverable | Status
 |---|---| ---|
 |Day 1| Project Preparation | Complete
-|Day 1| Wireframes / Priority Matrix / Timeline | In Progress
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Not started
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | In Progress
 |Day 4| Troubleshooting | Incomplete
 |Day 5| Final Touches/Changes | Incomplete
 |Day 6| Present | Incomplete
@@ -54,15 +54,15 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Main Style | H | 8hr | hr |
-| Project Previews | H | 2hr | hr |
-| Regular Nav | H | 5hr | hr |  
-| Adding Depth | H | 1hr|  hr | 
-| Animation in background | H | 2hr | hr|
+| Main Style | H | 10hr | hr |
+| Project Previews | H | 5hr | hr |
+| Regular Nav | H | 7hr | hr |  
+| Adding Depth | H | 3hr|  hr | 
+| Animation in background | H | 3hr | hr|
 | Working with API/ Uploading | H | 2hrs|  hr | 
 | Responsive | H | 3hr | hr | hr |
 | Social Media Icons | L | 2hr |  hr |
-| Total | H | 25 hrs| hrs |
+| Total | H | 36 hrs| hrs |
 #### PostMVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
