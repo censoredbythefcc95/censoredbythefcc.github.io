@@ -54,7 +54,7 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 #### MVP
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: | 
-| Main Style | H | 10hr | hr |
+| Main Style | H | 10hr |  4 hr |
 | Project Previews | H | 5hr | hr |
 | Regular Nav | H | 7hr | hr |  
 | Adding Depth | H | 3hr|  hr | 
