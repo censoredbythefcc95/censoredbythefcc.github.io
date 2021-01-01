@@ -20,5 +20,12 @@
         margin-left: 3rem;
         margin-bottom: 0;
     }
+    /*Might be able to add more here, return when possible */
+    .nav_toggle {
+        display: none;
+    }
+    .nav_link {
+        text-transform: initial;
+    }
 
 }
