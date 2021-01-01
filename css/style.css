@@ -27,5 +27,23 @@
     .nav_link {
         text-transform: initial;
     }
+    .home {
+        -ms-grid-rows: max-content 20px;
+            grid-template-rows: -webkit-max-content 20px;
+            grid-template-rows: max-content 20px;
+        -ms-flex-line-pack: center;
+            align-content: center; 
+    }
+    .information_home {
+        margin-top: 2rem;
+    }
+    .socialmedia_home {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: row;
+            flex-direction: row;
+        padding-top: 8rem;
+        padding-bottom: 0;
+    }
 
 }
