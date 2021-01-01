@@ -45,5 +45,13 @@
         padding-top: 8rem;
         padding-bottom: 0;
     }
-
+    .image_home-icon {
+        margin-right: 2rem;
+        margin-bottom: 0;
+    }
+    /* background image goes here, styling to be determined */
+    .image_home {
+        width: 553px;
+        right: 5%;
+    }
 }
