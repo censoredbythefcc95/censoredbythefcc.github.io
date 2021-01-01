@@ -1,0 +1,20 @@
+/* Media Queries */
+
+@media screen and (min-width: 768px) {
+    body {
+        margin: 0;
+    }
+    .l-main {
+        height: 100vh;
+    }
+    .nav {
+        height: 4rem;
+    }
+    .nav_list {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        padding-top: 0;
+    }
+
+}
