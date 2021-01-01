@@ -16,5 +16,9 @@
         display: flex;
         padding-top: 0;
     }
+    .nav_item {
+        margin-left: 3rem;
+        margin-bottom: 0;
+    }
 
 }
