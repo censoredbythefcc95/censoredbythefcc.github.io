@@ -27,3 +27,4 @@ const projects = rawProjects.map((project) => {
 console.log(projects)
 })
 
+    
