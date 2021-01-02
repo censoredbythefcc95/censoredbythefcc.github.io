@@ -109,3 +109,37 @@
     font-weight: 700;
     overflow: hidden;
   }
+
+  h1, h2 {
+      margin: 0;
+  }
+
+  ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+
+  a {
+      text-decoration: none;
+  }
+/*background image */
+  img {
+      max-width: 100%;
+      height: auto;
+  }
+
+  /* Navigation Bar Configuration */
+  .nav {
+      height: 3rem;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+      -webkit-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      justify-content: space-between;
+      font-weight: 700;
+  }
