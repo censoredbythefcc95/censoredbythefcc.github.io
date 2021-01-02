@@ -158,4 +158,61 @@
           -webkit-transition: .5s;
       }
   }
+
+  .nav_item {
+      margin-bottom: 2rem;
+  }
+
+  .nav_link:hover {
+      position: relative;
+  }
+
+  .nav_link:hover:after {
+      width: 1.5rem;
+      height: 0.1875rem;
+      left: 0.125rem;
+      top: 2.125rem;
+      background-color: var(--first-color);
+      position: absolute;
+      content: '';
+  }
+
+  .nav_list {
+      text-align: center;
+  }
   
+  .nav_link {
+      color: var(--text-color);
+  }
+  
+  .nav_toggle {
+      font-size: 2rem;
+      cursor: pointer;
+  }
+
+  /* Home page */
+/* 2.3 or 2.5? Must review */
+  .home {
+      display: -ms-grid;
+      display: grid;
+      -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+      -ms-grid-rows: max-content max-content;
+      grid-template-rows: -webkit-max-content -wekit-max-content;
+      grid-template-rows: max-content max-content;
+      -ms-flex-line-pack: distribute;
+      align-content: space-around;
+      font-weight: 700;
+      height: 100%;
+      row-gap: 2.5rem;
+  }
+
+  /*menu bar*/
+  .show {
+      top: 3rem;
+  }
+
+  .1-main {
+      height: calc(100vh - 3rem);
+      background-color: var(--black-color);
+  }
