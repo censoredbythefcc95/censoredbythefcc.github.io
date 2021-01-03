@@ -235,13 +235,13 @@
     font-size: var(--h2-font-size);
   }
 
-  .image_home {
+  /* .image_home {
       position: absolute;
       right: 0;
       bottom: 0;
       width: 291px;
       z-index: var(--z-normal);
-  }
+  } */
 
   .socialmedia_home {
       display: -webkit-box;
