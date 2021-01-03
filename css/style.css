@@ -243,3 +243,23 @@
       z-index: var(--z-normal);
   }
 
+  .socialmedia_home {
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-orient: vertical;
+      -webkit-box-direction: normal;
+        -ms-flex-direction: columns: 1fr;
+            flex-direction: column;
+        padding-bottom: 1rem;
+  }
+
+  .image_home-icon {
+      font-size: 1.33rem;
+      cursor: pointer;
+      margin-bottom: 2rem;
+  }
+
+  .image_home-icon:hover {
+      color: var(--first-color);
+  }
