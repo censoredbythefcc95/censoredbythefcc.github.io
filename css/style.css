@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
 /* Media Queries */
 
 @media screen and (min-width: 768px) {
@@ -103,7 +105,7 @@
   
   body {
     margin: 3rem 0 0 0;
-    font-family: var(--body-font);
+    font-family: 'Archivo Black', sans-serif;
     background-color: var(--black-color);
     color: var(--white-color);
     font-weight: 700;
@@ -172,7 +174,7 @@
       height: 0.1875rem;
       left: 0.125rem;
       top: 2.125rem;
-      background-color: var(--first-color);
+      background-color: white;
       position: absolute;
       content: '';
   }
@@ -235,13 +237,11 @@
     font-size: var(--h2-font-size);
   }
 
-  /* .image_home {
+  .image_home {
       position: absolute;
-      right: 0;
-      bottom: 0;
-      width: 291px;
-      z-index: var(--z-normal);
-  } */
+      width: 100%;
+      height: 100%;
+  }
 
   .socialmedia_home {
       display: -webkit-box;
