@@ -6,10 +6,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 |---|---| ---|
 |Day 1| Project Preparation | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | In Progress
-|Day 4| Troubleshooting | Incomplete
-|Day 5| Final Touches/Changes | Incomplete
-|Day 6| Present | Incomplete
+|Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
+|Day 4| Troubleshooting | Complete
+|Day 5| Final Touches/Changes | complete
+|Day 6| Present | Complete
 ## Project Description
 This project reflects my personal portfolio and makes a first impression on my
 future employers that will want to see where I stand with my work,
