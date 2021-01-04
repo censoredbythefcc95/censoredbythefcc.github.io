@@ -32,5 +32,4 @@ gsap.from('.introduction-text', {opacity: 0, duration: 3, delay: 2.3, y: 25, eas
 gsap.from('.navigation_logo', {opacity:0, duration: 3, delay: 3.2, y: 25, ease:'expo.out'});
 gsap.from('.nav_item', {opacity: 0, duration: 3, delay: 3.2, y: 25, ease:'expo.out', stagger: .2})
 
-$header = $("<h1>Hello World</h1>")
 
