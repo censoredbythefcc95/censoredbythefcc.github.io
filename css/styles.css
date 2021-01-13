@@ -1,3 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital@0;1&display=swap');
+
+
+
+
 /*Hamburger Menu stuff */
 .mainmenuButton{
     z-index: 11;
@@ -95,7 +101,7 @@
   }
   
   #logo {
-    font-family: helvetica, arial;
+    font-family: 'Josefin Sans', sans-serif;
     font-size: 3.5rem;
   }
   
@@ -135,19 +141,30 @@
 
   .aboutcontent {
     text-align: center;
+
+    
   }
+
 
   /* Desktop Responsive Stuff */
   @media only screen and (min-width: 1024px) {
     body {
         max-width: 1200px;
-        background-color: green;
+        background-color: rgb(50, 59, 59);
+        font-family: 'Josefin Sans', sans-serif;
+        color: white;
       }
       
+      .projectcontent {
+        text-align: center;
+        padding-top: 115px;
+        font-family: 'Josefin Sans', sans-serif;
+      }
 
       .about {
         padding-top: 145px;
         text-align: center;
+        font-family: 'Josefin Sans', sans-serif;
       }
 
       #logo {
@@ -157,20 +174,23 @@
 
       .helloText {
         padding-top: 115px;
+        font-family: 'Josefin Sans', sans-serif;
       }
       
       .aboutcontent {
-       padding-top: 115px;
+       padding-top: 7px;
        text-align: center;
+       font-family: 'Josefin Sans', sans-serif;
       }
 
       .topnavbar {
         line-height: inherit;
+        font-family: 'Josefin Sans', sans-serif;
       }
     
       .navcontainer {
         border-bottom: black 4px solid;
-        background-color: red;
+        background-color: rgb(3, 3, 3);
       }
     
       .navlinks {
