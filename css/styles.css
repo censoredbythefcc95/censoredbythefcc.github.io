@@ -58,7 +58,6 @@
     overflow-x: hidden;
     display: block;
     opacity: 0;
-    transition: opacity 1s ease-in-out;
   }
   
   .displayoverlaytext {
@@ -66,7 +65,7 @@
     top: 15%;
     width: 100%;
     text-align: center;
-    font-family: proxima-nova, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-weight: 700;
     font-style: normal;
   }
@@ -82,7 +81,7 @@
   
   .displayoverlay a:hover,
   .overlay a:focus {
-    color: #f1f1f1;
+    color: white;
   }
   
   .background {
@@ -90,8 +89,7 @@
     width: 360px;
     height: 360px;
     border-radius: 50%;
-    background-color: var(--liteAccent);
-    transition: all 750ms ease-in-out;
+    background-color: red;
     transform: scale(0.1);
     position: absolute;
   }
@@ -136,4 +134,45 @@
   }
 
   /* Desktop Responsive Stuff */
-  @media only screen and (min-width: 1024px) {}
+  @media only screen and (min-width: 1024px) {
+    body {
+        max-width: 1200px;
+      }
+
+      .topnavbar {
+        line-height: inherit;
+      }
+    
+      .navcontainer {
+        border-bottom: black 4px solid;
+        background-color: red;
+      }
+    
+      .navlinks {
+        display: flex;
+        list-style-type: none;
+        justify-content: flex-end;
+        line-height: 3em;
+      }
+
+      #logo {
+        display: flex;
+      }
+
+      .mobilenavbuttons {
+        display: none;
+      }
+    
+      .navlinks li a {
+        margin-left: 25px;
+        font-size: 1.4rem;
+        font-weight: 500;
+        font-style: normal;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: white;
+      }
+}
+
+/*Style settings across the pages*/
+
