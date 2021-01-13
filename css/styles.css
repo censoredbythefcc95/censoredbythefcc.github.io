@@ -137,6 +137,12 @@
   @media only screen and (min-width: 1024px) {
     body {
         max-width: 1200px;
+        background-color: green;
+      }
+      
+      .aboutcontent {
+       padding-top: 115px;
+       text-align: center;
       }
 
       .topnavbar {
@@ -194,6 +200,7 @@ body {
   
 /*form styling */
 :root {
+
   --sl-color-primary-50: #faf5ff;
   --sl-color-primary-100: #f3e8ff;
   --sl-color-primary-200: #e9d5ff;
