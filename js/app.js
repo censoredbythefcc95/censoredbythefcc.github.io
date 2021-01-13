@@ -26,6 +26,8 @@ const projects = rawProjects.map((project) => {
 
 console.log(projects);
 
+
+
 //Mobile Navigation Action
 let menuOpen = false;
 $(".mobilenavbuttons").click(() => {

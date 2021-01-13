@@ -11,6 +11,8 @@
     ></script>
     <script src="./js/components.js" defer></script>
     <script src="./js/app.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.25/dist/shoelace/shoelace.css">
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.25/dist/shoelace/shoelace.esm.js"></script>
     <link rel="stylesheet" href="./css/styles.css" />
   </head>
 <body>
@@ -45,11 +47,23 @@
     <div class="helloText">
       <h1> Contact Form</h1>
         <p>
-          Placeholder <br />
-          Placeholder <br />
-          Placeholder <br />
-          Placeholder <br />
+          Want to reach out? Connect? Have lunch? Work on project? <br />
+          Simply fill out this form and I'll get back to you soon. <br />
         </p>
     </div>
+    <sl-form class="input-validation-type">
+      <sl-input type="email" label="Email" placeholder="example@example.com" required></sl-input>
+      <br>
+      <sl-input type="url" label="Your Message" placeholder="Hello World? Hello World." required></sl-input>
+      <br>
+      <sl-button type="primary" submit>Submit</sl-button>
+    </sl-form>
+    <!--shoelace component-->
+    <script>
+      const form = document.querySelector('.input-validation-type');
+      form.addEventListener('sl-submit', () => alert('All fields are valid!'));
+    </script>
+    
+    
 </body>
 </html>

@@ -192,4 +192,16 @@ body {
     gap: min(10vw, 50px);
   }
   
-
+/*form styling */
+:root {
+  --sl-color-primary-50: #faf5ff;
+  --sl-color-primary-100: #f3e8ff;
+  --sl-color-primary-200: #e9d5ff;
+  --sl-color-primary-300: #d8b4fe;
+  --sl-color-primary-400: #1ac9e0;
+  --sl-color-primary-500: #f34814;
+  --sl-color-primary-600: #eb250b;
+  --sl-color-primary-700: #dd0e0e;
+  --sl-color-primary-800: #ec1111;
+  --sl-color-primary-900: #cf0c0c;
+}
