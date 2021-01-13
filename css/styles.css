@@ -134,3 +134,6 @@
     justify-content: center;
     align-items: center;
   }
+
+  /* Desktop Responsive Stuff */
+  @media only screen and (min-width: 1024px) {}
