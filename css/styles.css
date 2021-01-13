@@ -142,7 +142,14 @@
   .aboutcontent {
     text-align: center;
 
-    
+  }
+
+  @media (min-width: 268px) {
+    body {
+      background-color: rgb(50, 59, 59);
+      color: white;
+      font-family: 'Josefin Sans', sans-serif;
+    }
   }
 
 
@@ -245,9 +252,9 @@ body {
   --sl-color-primary-200: #e9d5ff;
   --sl-color-primary-300: #d8b4fe;
   --sl-color-primary-400: #1ac9e0;
-  --sl-color-primary-500: #f34814;
-  --sl-color-primary-600: #eb250b;
-  --sl-color-primary-700: #dd0e0e;
-  --sl-color-primary-800: #ec1111;
-  --sl-color-primary-900: #cf0c0c;
+  --sl-color-primary-500: #1a1918;
+  --sl-color-primary-600: #0a0a0a;
+  --sl-color-primary-700: #0f0e0e;
+  --sl-color-primary-800: #1b1a1a;
+  --sl-color-primary-900: #0e0d0d;
 }
