@@ -175,4 +175,13 @@
 }
 
 /*Style settings across the pages*/
+body {
+    font-family: arial,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 2.75rem;
+    padding: 20px;
+    margin: auto;
+    text-decoration: none; /*trying to get logo underline to disappear.*/
+  }
 
