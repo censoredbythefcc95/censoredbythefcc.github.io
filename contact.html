@@ -54,14 +54,14 @@
     <sl-form class="input-validation-type">
       <sl-input type="email" label="Email" placeholder="example@example.com" required></sl-input>
       <br>
-      <sl-input type="url" label="Your Message" placeholder="Hello World? Hello World." required></sl-input>
+      <sl-input type="text" label="Your Message" placeholder="Hello World? Hello World." required></sl-input>
       <br>
       <sl-button type="primary" submit>Submit</sl-button>
     </sl-form>
     <!--shoelace component-->
     <script>
       const form = document.querySelector('.input-validation-type');
-      form.addEventListener('sl-submit', () => alert('All fields are valid!'));
+      form.addEventListener('sl-submit', () => alert('Your message has been sent!'));
     </script>
     </div>
     

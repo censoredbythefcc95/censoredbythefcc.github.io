@@ -242,6 +242,8 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     margin-top: max(5vw, 90px);
     gap: min(10vw, 50px);
+    color: black;
+    font-style: italic;
   }
   
 /*form styling */
@@ -257,4 +259,22 @@ body {
   --sl-color-primary-700: #0f0e0e;
   --sl-color-primary-800: #1b1a1a;
   --sl-color-primary-900: #0e0d0d;
+
+  .card-overview {
+    max-width: 300px;
+  }
+
+  .card-overview small {
+    color: var(--sl-color-gray-500);
+  }
+
+  .card-overview [slot="footer"] {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+  }
+
+  
+  
 }
+

@@ -11,6 +11,8 @@
     ></script>
     <script src="./js/components.js" defer></script>
     <script src="./js/app.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.25/dist/shoelace/shoelace.css">
+<script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.0.0-beta.25/dist/shoelace/shoelace.esm.js"></script>
     <link rel="stylesheet" href="./css/styles.css" />
   </head>
 <body>
@@ -43,15 +45,43 @@
     </header>
     
     <div class="projectcontent">
-      <h1> This is my Project Page </h1>
-        <p>
-          Placeholder <br />
-          Placeholder <br />
-          Placeholder <br />
-          Placeholder <br />
-        </p>
-
+      <h1> Projects I've worked on </h1>
+      
         <div class="projectdisplay">
+          <sl-card class="card-overview">
+            <img 
+              slot="image" 
+              src="./photos/IMG_3422.JPG" 
+              alt="LOTR Project"
+            >
+          
+            <strong>Lord of The Rings - jQuery</strong><br>
+           Small jQuery project that warmed me up to jQuery syntax.<br>
+            <small>jQuery</small>
+          
+            <div slot="footer">
+              <sl-button href="https://git.generalassemb.ly/censoredbythefcc/jQuery_LOTR.git" type="primary" pill>Github Link</sl-button>
+            </div>
+          </sl-card>
+
+          <sl-card class="card-overview">
+            <img 
+              slot="image" 
+              src="./photos/IMG_3422.JPG" 
+              alt="JS Primers"
+            >
+          
+            <strong>JavaScript Primers</strong><br>
+           JavaScript exercises that trained on basic JS skills as well as syntax.<br>
+            <small>JavaScript</small>
+          
+            <div slot="footer">
+              <sl-button href="https://git.generalassemb.ly/censoredbythefcc/JS_Primer_Homework.git" type="primary" pill>Github Link</sl-button>
+            </div>
+          </sl-card>
+
+          
+
 
         </div>
     </div>
