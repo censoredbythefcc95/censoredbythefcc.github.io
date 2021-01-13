@@ -133,11 +133,30 @@
     align-items: center;
   }
 
+  .aboutcontent {
+    text-align: center;
+  }
+
   /* Desktop Responsive Stuff */
   @media only screen and (min-width: 1024px) {
     body {
         max-width: 1200px;
         background-color: green;
+      }
+      
+
+      .about {
+        padding-top: 145px;
+        text-align: center;
+      }
+
+      #logo {
+        color: white;
+        text-decoration: none;
+      }
+
+      .helloText {
+        padding-top: 115px;
       }
       
       .aboutcontent {
